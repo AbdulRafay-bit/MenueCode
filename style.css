@@ -1,0 +1,13 @@
+h1{
+    color:blue;
+}
+#h1-red{
+    color: red;
+}
+.green{
+    color: green;
+    background-color: purple;
+}
+.bg-color{
+    background-color: aqua;
+}
